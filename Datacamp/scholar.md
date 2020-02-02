@@ -33,5 +33,5 @@ Datacamp - https://www.datacamp.com/profile/anuragpeddi <br/>
 Name - PAVAN KUMAR SINGH <br/>
 Github Repo - https://github.com/pksX01 <br/>
 =======
-
-
+Name - Mohd Adil Khan <br/>
+Github Repo - https://github.com/makforever/Data-Science </br>
